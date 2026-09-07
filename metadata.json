@@ -1,0 +1,6 @@
+{
+  "name": "Replify",
+  "description": "An AI reply assistant that floats over your chat apps and seamlessly generates and pastes smart replies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Replify</string>
+    <string name="accessibility_service_description">Replify uses Accessibility to read the last message on your screen and paste AI generated replies automatically.</string>
+</resources>
